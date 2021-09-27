@@ -1,4 +1,4 @@
-const soldier: = {
+const soldier = {
     name: zorrok,
     heal: 100,
     weapon: ak47,
